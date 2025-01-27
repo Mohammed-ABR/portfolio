@@ -1,55 +1,104 @@
-# Project Name
+# Personal Portfolio
 
-<!-- describe your project -->
+This project is a personal portfolio website showcasing my skills, services, and
+projects. The goal is to present my professional experience and connect with
+potential collaborators or clients.
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+• To run the project, follow these steps: • Clone the repository. • Open the
+index.html file in any browser. • Ensure the style.css file is linked correctly
+for proper styling.
 
 ---
 
-<!-- copy this section once for each must-have user story -->
-
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
+“As a visitor, I can navigate through the website to view services, projects,
+and contact details so that I can understand the creator’s expertise and connect
+with them.”
 
-> "as a ... i can ... so that ..."
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+---
 
 ### Logic: user story
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+• Develop the website structure using **HTML**: • Add sections for navigation,
+main content, services, projects, and contact information. • Ensure semantic
+HTML tags are used for clarity and accessibility.
+
+---
 
 ### Interface: user story
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+• Style the website using **CSS**: • Design a responsive navigation bar with
+links to sections. • Style the “Services” and “Projects” sections with grid
+layouts. • Add hover effects and animations for interactive elements.
+
+---
 
 ### Interaction: user story
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+• **Implement user interactions**:
+
+• Ensure navigation links scroll smoothly to the respective sections. • Add
+clickable social media icons with links.
+
+---
 
 ### Documentation: user story
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+• Document the project setup and structure: • Describe file organization and CSS
+class usage. • Explain how to modify or add content.
+
+---
+
+## Features
+
+## Navigation Bar
+
+• **HTML**: • Add a header with nav and a tags for links. • **CSS**: • Style
+with flexbox, adjust padding, and ensure responsiveness.
+
+## Showcase Section
+
+• **HTML**: • Add a section for introductory text and a call-to-action button. •
+**CSS**: • Style with a large hero font, background image, and centered
+alignment.
+
+---
+
+## Services Section
+
+• **HTML**: • Create cards for each service with icons, headings, and
+descriptions. • **CSS**: • Use a grid layout for proper alignment and add hover
+effects.
+
+---
+
+## Projects Section
+
+• **HTML**: • Add cards for each project with images, titles, and links for more
+details. • **CSS**: • Style cards with shadows, borders, and responsive layout.
+
+---
+
+## Contact Section
+
+• **HTML**: • Include cards for phone and email with icons. • **CSS**: • Style
+with flexbox and add appropriate spacing.
+
+---
+
+## Footer
+
+• **HTML**: • Add social media icons and copyright information. • **CSS**: •
+Style with a centered layout and adjust font sizes.
+
+---
+
+## Notes
+
+• Work on all features in a single branch for streamlined progress. • Keep the
+code modular and well-documented to simplify future updates.
