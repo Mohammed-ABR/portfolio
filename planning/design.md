@@ -1,17 +1,16 @@
 # Design
 
+---
+
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+The portfolio design is clean and professional, featuring sections to showcase
+skills, projects, resume, and a contact form
 
 ---
 
-## Wireframe(s)
+## Wireframe
 
-> Include your wireframe(s) and link to wireframe
+---
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Wireframe](Wireframe.png)
