@@ -59,7 +59,7 @@ class usage. • Explain how to modify or add content.
 ## Navigation Bar
 
 • **HTML**: • Add a header with nav and a tags for links. • **CSS**: • Style
-with flexbox, adjust padding, and ensure responsiveness.
+with flex-box, adjust padding, and ensure responsiveness.
 
 ## Showcase Section
 
@@ -87,7 +87,7 @@ details. • **CSS**: • Style cards with shadows, borders, and responsive layo
 ## Contact Section
 
 • **HTML**: • Include cards for phone and email with icons. • **CSS**: • Style
-with flexbox and add appropriate spacing.
+with flex-box and add appropriate spacing.
 
 ---
 
